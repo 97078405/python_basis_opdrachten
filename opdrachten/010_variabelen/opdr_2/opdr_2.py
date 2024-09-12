@@ -6,3 +6,4 @@
 
 my_tuple = okw
 test = test
+d = d
