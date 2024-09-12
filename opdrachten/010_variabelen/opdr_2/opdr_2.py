@@ -4,4 +4,5 @@
 
 # Hier komt je code...
 
-my_tuple = okwd
+my_tuple = okw
+test = test
