@@ -3,18 +3,11 @@
 # Groep:
 
 # Hier komt je code...
-# Definieer de kerstboom
-kerstboom = [
-    "    *    ",
-    "   ***   ",
-    "  ******  ",
-    " ********* ",
-    "***********",
-    "    ***    ",
-    "    ***    ",
-    "    ***    "
-]
-
-
-for line in kerstboom: 
-    print(line * 5)
+print("    *      " * 5)
+print("   ***     " * 5)
+print("  *****    " * 5)
+print(" *******   " * 5)
+print("********** " * 5)
+print("   ***     " * 5)
+print("   ***     " * 5)
+print("   ***     " * 5)
